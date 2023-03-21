@@ -1,0 +1,1 @@
+const hellos = document.getElementsByClassName("hello");
